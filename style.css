@@ -1,0 +1,57 @@
+.entry-form{
+    background-color: black;
+    color: white;
+}
+
+form{
+    height: 30vh;
+    padding: 10vh;
+}
+
+.jordan-mode{
+    font-size: 3em;
+    color: tomato;
+}
+
+
+
+
+
+
+#message{
+    margin: 1em;
+    width: 90vw;
+}
+
+#article-1{
+    border: 1px solid blue;
+    flex-basis: 50%;
+    margin: 1em;
+}
+#article-2{
+    border: 1px solid red;
+    flex-basis: 50%;
+    margin: 1em;
+}
+
+.article-container{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
+}
